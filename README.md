@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Spark Mail (Readdle) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sparkmailapp.com/
+Spark Mail, developed by Readdle, is a smart email client focused on helping users achieve inbox zero and stay organized. It offers features like a focused inbox, snoozing, smart notifications, and powerful search across iOS, macOS, Android, and Windows platforms, aiming to boost productivity for personal and professional communication.
+
+**Areas:** Email · Productivity · iOS · macOS · Android
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sparkmailapp.com/)
+- [Documentation](https://sparkmailapp.com/guides/ai-email-reply)
+- [Pricing](https://sparkmailapp.com/pricing)
+- [Support](https://sparkmailapp.com/help)
+- [Blog](https://sparkmailapp.com/blog)
+- [Terms of service](https://sparkmailapp.com/legal/terms)
+- [Privacy policy](https://sparkmailapp.com/legal/privacy-web)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/readdle-spark/](https://apis.io/providers/readdle-spark/).
